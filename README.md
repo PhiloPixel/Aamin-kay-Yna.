@@ -39,11 +39,7 @@
     <div class="signature">- James Ronda</div>
 
     <script>
-        const messageText = `Crush kita Yna Kaizly Nasol. It's me James, uhm maybe magagalit ka, masusupog ka sako makiulay pero wag po please. 
-Nagustohan kita bako lang sa gayon mo, kundi sa pagiging maboot mo sa maboot man saimo. 
-I love your vibe. I love your style. Crush lang kitaa. Kapag study first ka ayos lang. 
-I'll wait lodi.`;
-        
+        const messageText = I have crush on you. Di ko alam kung bakit dawa duwang aldaw taka lang na hiling saka dae mo man ako bisto and dae taka man bisto. Diba very non-sense. Merry Christmas btw. The purpose of this is I want to say that i like you.        
         let index = 0;
         const typingSpeed = 50; // Speed of typing in milliseconds
 
